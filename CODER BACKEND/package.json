@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "coder-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianPierucci/Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianPierucci/Backend/issues"
+  },
+  "homepage": "https://github.com/GianPierucci/Backend#readme"
+}

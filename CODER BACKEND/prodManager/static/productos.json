@@ -1,0 +1,20 @@
+[
+   {
+      "product": "Keyboard",
+      "description": "Gaming keyboard with RGB",
+      "price": 2000,
+      "id": 1,
+      "stock": 5,
+      "image": "image",
+      "code": ""
+   },
+   {
+      "product": "Mouse",
+      "description": "Gaming Mouse with RGB",
+      "price": 1000,
+      "id": 2,
+      "stock": 8,
+      "image": "image",
+      "code": ""
+   }
+]
