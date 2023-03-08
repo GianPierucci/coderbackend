@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "coder-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prodManager/src/app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon -e 'js, html' ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianPierucci/coderbackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianPierucci/Backend/issues"
+  },
+  "homepage": "https://github.com/GianPierucci/Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
