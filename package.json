@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GianPierucci/Backend/issues"
+    "url": "https://github.com/GianPierucci/coderbackend/issues"
   },
-  "homepage": "https://github.com/GianPierucci/Backend#readme",
+  "homepage": "https://github.com/GianPierucci/coderbackend#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
